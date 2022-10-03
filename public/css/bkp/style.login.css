@@ -1,0 +1,102 @@
+@charset "UTF-8";
+
+
+.m-login.m-login--2.m-login-2--skin-3 .m-login__container .m-login__form .form-control {
+    color: #ae080a;
+}
+
+.m-login.m-login--2.m-login-2--skin-3 .m-login__container .m-login__form .form-control:focus{
+     color: #5d0d0e; 
+}
+
+.help-block{
+  display: block;
+  text-align: center;
+  color: #fff;
+  padding:6px; 
+}
+
+.m-form .m-form__group .form-control-label, .m-form .m-form__group .col-form-label, .m-form .m-form__group > label{
+  color:#ffffff;
+}
+
+.m-radio > span:after{
+    border: solid #fff;
+}
+
+.m-radio{
+  color: #ffffff;
+}
+
+
+.footer{
+  background-color: #880000;
+  padding:15px; 
+  color:#fff;
+  font-size: .9em;
+
+}
+
+.m-login.m-login--2.m-login-2--skin-3 .m-login__container .m-login__form .form-control:focus::-webkit-input-placeholder,
+.m-login.m-login--2.m-login-2--skin-3 .m-login__container .m-login__form .form-control::-webkit-input-placeholder{
+  color: #de7677;
+  opacity: 1; 
+}
+
+.btn-outline-focus:not([disabled]):not(.disabled):active, .btn-outline-focus:not([disabled]):not(.disabled).active, .show > .btn-outline-focus.dropdown-toggle,
+.btn-outline-focus:hover{
+  border:1px solid #fff;
+  color:#fff;
+  background-color: #cc1111;
+}
+
+.btn-outline-focus{
+  border:1px solid #ddd;
+  color:#ddd;
+}
+
+.m-login.m-login--2.m-login-2--skin-3 .m-login__container .m-login__form .form-control{
+  background-color: #fff;
+}
+
+.btn-focus:not([disabled]):not(.disabled):active, .btn-focus:not([disabled]):not(.disabled).active, .show > .btn-focus.dropdown-toggle,
+.btn-focus:HOVER{
+  background-color: #ee2222;
+  border-color: #ee2222;
+}
+
+.btn-focus{
+  background-color: #ff2222;
+  border-color: #ff2222;
+  box-shadow: none;
+}
+
+.m-login.m-login--2.m-login-2--skin-3 .m-login__container .m-login__head .m-login__desc{
+  color:#fff;
+}
+
+.m-login.m-login--2.m-login-2--skin-3 .m-login__container .m-login__head .m-login__title{
+  color:#fff;
+}
+
+.m-login.m-login--2.m-login-2--skin-3 .m-login__container .m-login__form .m-login__form-sub .m-checkbox{
+  color:#fff;
+}
+
+
+.m-login.m-login--2.m-login-2--skin-3 .m-login__container .m-login__form .m-login__form-sub .m-link,
+.m-login.m-login--2.m-login-2--skin-3 .m-login__container .m-login__form .m-login__form-sub .m-link:hover{
+   color:#fff; 
+}
+
+.m-login.m-login--2.m-login-2--skin-3 .m-login__container .m-login__account .m-login__account-msg{
+  color:#ddd;
+}
+
+.m-login.m-login--2.m-login-2--skin-3 .m-login__container .m-login__account .m-login__account-link{
+  color:#fff;
+}
+
+.m-login.m-login--2.m-login-2--skin-3 .m-login__container .m-login__account .m-login__account-link:hover{
+  color:#ddd;
+}
